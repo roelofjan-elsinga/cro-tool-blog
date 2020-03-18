@@ -1,0 +1,25 @@
+---
+title: Blog by Cro-tool
+layout: default
+---
+
+<h1>Cro-tool</h1>
+
+<p>
+    With the CRO-Tool blog, you will improve your CRO skills and A/B test results
+    by learning more about psychology. This blog will have a wide range of blog posts all aimed at CRO.
+</p>
+
+{% for post in site.posts %}
+
+    <div class="border-b border-gray-400 py-8">
+        <h2 class="mb-4">{{post.title}}</h2>
+
+        {% if post.description %}
+        <p>{{post.description}}</p>
+        {% endif %}
+
+        <a href="{{site.baseurl}}{{ post.url }}" class="underline font-bold mt-2 block">Read more</a>
+    </div>
+
+{% endfor %}

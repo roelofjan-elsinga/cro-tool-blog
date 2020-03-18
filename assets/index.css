@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: VesperLibreBold;
+    src: url('fonts/vesper-libre.bold-webfont.woff2') format('woff2'),
+    url('fonts/vesper-libre.bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a, h1, h2, h3, h4, h5, h6 {
+    @apply text-blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: VesperLibreBold, "serif";
+    @apply font-black;
+}
+
+h1 {
+    @apply text-5xl mb-8;
+}
+
+h2 {
+    @apply text-3xl mb-4;
+}
+
+h3 {
+    @apply text-2xl mb-2;
+}
+
+h4 {
+    @apply text-xl;
+}
+
+p {
+    @apply mb-2 text-base;
+}
+
+ol {
+    @apply list-decimal ml-4 mb-2;
+}
