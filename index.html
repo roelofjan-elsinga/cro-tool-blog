@@ -13,7 +13,9 @@ layout: default
 {% for post in site.posts %}
 
     <div class="border-b border-gray-400 py-8">
-        <h2 class="mb-4">{{post.title}}</h2>
+        <h2 class="mb-4">
+            <a href="{{site.baseurl}}{{ post.url }}" class="hover:underline">{{post.title}}</a>
+        </h2>
 
         {% if post.summary %}
         <p>{{post.summary}}</p>
