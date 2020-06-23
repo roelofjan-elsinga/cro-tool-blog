@@ -1,9 +1,20 @@
 <!doctype html>
 <html lang="en">
 {% include head.html %}
-<body class="container mx-auto bg-light-gray px-4 lg:px-0">
+<body class="container mx-auto bg-light-gray px-4 lg:px-0 lg:max-w-4xl">
 {% include menu.html %}
 <main class="my-4">
+
+    {% if page.canonical_url %}
+
+    <div class="text-center">
+        <a href="{{page.canonical_url}}" target="_blank" rel="nofollow" class="text-gray-700 text-xs hover:underline">
+            Post originally published at {{page.original_website}} by {{page.original_author}} on {{page.original_post_date | date_to_string}}
+        </a>
+    </div>
+
+    {% endif %}
+
     {{ content }}
 </main>
 </body>

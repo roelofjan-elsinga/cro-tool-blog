@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "The impact of COVID-19 on CRO"
-date:   2020-03-14 12:00:0 +0100
+date:   2020-03-14 12:00:00 +0100
 description: >-
     The corona virus has an increasingly visible impact on e-commerce especially 
     when you're dealing with something like plane tickets. 
