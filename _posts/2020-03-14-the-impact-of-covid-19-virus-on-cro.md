@@ -2,7 +2,7 @@
 layout: default
 title:  "The impact of COVID-19 on CRO"
 date:   2020-03-14 12:00:00 +0100
-description: >-
+summary: >-
     The corona virus has an increasingly visible impact on e-commerce especially 
     when you're dealing with something like plane tickets. 
     This post is about how the Corona virus is impacting CRO and what measures you can take to deal with this situation.

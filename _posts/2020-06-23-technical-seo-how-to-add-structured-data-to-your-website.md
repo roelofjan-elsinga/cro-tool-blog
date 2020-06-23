@@ -2,7 +2,7 @@
 layout: default
 title:  "Technical SEO: How to add structured data to your website"
 date:   2020-03-23 12:00:00 +0100
-description: >-
+summary: >-
     SEO is very important to help people to find your website. 
     To help Google understand the content of your website you can use Structured data to provide more context about 
     your website and individual pages. In this post we go over how you can implement this in your website.

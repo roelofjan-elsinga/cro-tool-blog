@@ -2,6 +2,10 @@
 <html lang="en">
 {% include head.html %}
 <body class="container mx-auto bg-light-gray px-4 lg:px-0 lg:max-w-4xl">
+{% if site.google_tag_manager %}
+    {% include gtm.html %}
+{% endif %}
+
 {% include menu.html %}
 <main class="my-4">
 

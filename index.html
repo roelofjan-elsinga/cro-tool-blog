@@ -15,8 +15,8 @@ layout: default
     <div class="border-b border-gray-400 py-8">
         <h2 class="mb-4">{{post.title}}</h2>
 
-        {% if post.description %}
-        <p>{{post.description}}</p>
+        {% if post.summary %}
+        <p>{{post.summary}}</p>
         {% endif %}
 
         <a href="{{site.baseurl}}{{ post.url }}" class="underline font-bold mt-2 block">Read more</a>

@@ -26,6 +26,7 @@ description: >-
 baseurl: ""
 url: "https://blog.cro-tool.com"
 permalink: /:slug
+google_tag_manager: GTM-W98VM67
 
 # Build settings
 theme: minima
