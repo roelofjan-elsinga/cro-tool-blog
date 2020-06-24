@@ -32,6 +32,7 @@ google_tag_manager: GTM-W98VM67
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 defaults:
   - scope:
