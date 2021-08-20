@@ -9,6 +9,7 @@ canonical_url: https://roelofjanelsinga.com/articles/boost-web-performance-with-
 original_author: Roelof Jan Elsinga
 original_post_date: 2020-08-05
 original_website: roelofjanelsinga.com
+redirect_to: https://cro-tool.com/blog/boost-web-performance-with-service-workers
 ---
 ![Speedy zoomed in on Camera](https://roelofjanelsinga.com/images/articles/speedy-zoomed-in-on-camera.jpeg)
 # Boost web performance with Service Workers

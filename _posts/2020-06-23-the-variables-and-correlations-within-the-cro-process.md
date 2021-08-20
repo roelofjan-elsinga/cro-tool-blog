@@ -5,6 +5,7 @@ date:   2020-06-23 12:00:00 +0100
 summary: >-
     CRO (Conversion Rate Optimization) starts with data! But how do you gather it and what do you do with it? 
     Read this post to find out more about using data with CRO.
+redirect_to: https://cro-tool.com/blog/the-variables-and-correlations-within-the-cro-process
 ---
 
 # The variables and correlations within the CRO process

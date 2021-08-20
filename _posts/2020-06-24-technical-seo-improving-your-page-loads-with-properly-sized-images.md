@@ -10,6 +10,7 @@ canonical_url: https://roelofjanelsinga.com/articles/technical-seo-improving-you
 original_author: Roelof Jan Elsinga
 original_post_date: 2020-06-24
 original_website: roelofjanelsinga.com
+redirect_to: https://cro-tool.com/blog/technical-seo-improving-your-page-loads-with-properly-sized-images
 ---
 
 ![Bandwidth usage in Gumlet](https://roelofjanelsinga.com/images/articles/bandwidth-usage-in-gumlet.png)

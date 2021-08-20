@@ -10,6 +10,7 @@ canonical_url: https://roelofjanelsinga.com/articles/technical-seo-how-to-add-st
 original_author: Roelof Jan Elsinga
 original_post_date: 2020-05-06
 original_website: roelofjanelsinga.com
+redirect_to: https://cro-tool.com/blog/technical-seo-how-to-add-structured-data-to-your-website
 ---
 ![Search performance plant care for beginners](https://roelofjanelsinga.com/images/articles/search-performance-for-plant-care-for-beginners.png)
 # Technical SEO: How to add structured data to your website

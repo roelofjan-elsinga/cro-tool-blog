@@ -8,6 +8,7 @@ canonical_url: https://sandervolbeda.com/survey-questions-you-should-ask-your-vi
 original_author: Sander Volbeda
 original_post_date: 2020-08-14
 original_website: sandervolbeda.com
+redirect_to: https://cro-tool.com/blog/survey-questions-you-should-ask-your-visitors-customers
 ---
 
 # Survey questions you should ask your visitors / customers
